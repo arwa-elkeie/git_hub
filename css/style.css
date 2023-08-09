@@ -1,0 +1,206 @@
+.aa{
+    background-position: center;
+    background-image: url("../images/bg-header-desktop.png");
+}
+.ff{
+    position: relative;
+    left: 700px;
+    bottom:10px;
+}
+.arwa{
+    text-align: center;
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+}
+.marwan{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-weight: 400;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.7);
+    position: relative;
+    left: 800px;
+}
+.btn2{
+    background-color: green;
+    color: white;
+    cursor: pointer;
+    font-size: 23px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-right: 1rem;
+    font-weight: 400;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.7);
+    position: relative;
+    left: 250px;
+}
+.h1{
+    text-align: center;
+
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+}
+.cv{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+}
+.lp{
+    text-align: right;
+    position: relative;
+    right: 540px;
+    bottom: 550px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.xz{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+    position: relative;
+    left: 250px;
+    bottom: 550px;
+}
+.fe{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+}
+.qm{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+    position: relative;
+    left: 300px;
+    bottom: 500px;
+}
+.mn{
+
+margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    position: relative;
+    left: 850px;
+    bottom: 500px;
+}
+.cv2{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: auto;
+    position: relative;
+    left: 300px;
+    bottom: 500px;
+}
+.cla{
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: hsl(210, 10%, 33%);
+    text-align: center;
+}
+.po6{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+}
+.ab{
+    width: 60%;
+    position: relative;
+    left: 300px;
+}
+.icon{
+    position: relative;
+    left: 500px;
+}
+.gh{
+    font-weight: 600;
+    color: hsl(210, 10%, 33%);
+    position: relative;
+    left: 430px;
+}
+.o9{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 17px;
+    margin: auto; 
+    position: relative; 
+    right:220px ;
+    bottom:20px ;
+}
+.icon3{
+    position: relative;
+    left: 800px;
+    bottom: 180px;
+
+}
+.gth{
+    font-weight: 600;
+    color: hsl(210, 10%, 33%);
+    position: relative;
+    left: 750px;
+    bottom: 180px;
+}
+.h7{
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 17px;
+    margin: auto;
+    position: relative;
+    
+    bottom: 180px;
+    left: 130px;
+}
+.r5{
+    position: relative;
+    left: 1150px;
+    bottom: 320px;
+    
+}
+.xd{font-weight: 600;
+    color: hsl(210, 10%, 33%);
+    position: relative;
+    left: 1100px;
+    bottom: 320px;
+}
+.arv{
+
+    color: hsl(201, 11%, 66%);
+    font-weight: 400;
+    text-align: center;
+    font-size: 17px;
+    margin: auto;
+    position: relative;
+    left: 470px;
+    bottom: 320px;
+}
